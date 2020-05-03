@@ -1,4 +1,4 @@
-package com.example.yash.readsms;
+package com.example.readsms;
 
 import org.junit.Test;
 
